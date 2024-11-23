@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://amaxoniafel.flexipaginas.net/$1"
+ }
+  ]
+}
